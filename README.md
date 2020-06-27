@@ -9,4 +9,4 @@ In any case clone this repository, after that:
 - ***for test*** - _Google_ _Test_ _Framework_ will be installed automatically if you have Internet access, otherwise install them manually.
 
 ## Documentation
-You can read about the used methods of passive location [here](https://github.com/DanilaG/LDtc/Doc/).
+You can read about the used methods of passive location [here](https://github.com/DanilaG/LDtc/blob/master/Doc.pdf).
